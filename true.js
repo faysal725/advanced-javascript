@@ -1,7 +1,7 @@
 // const name = "";
-let name= 0;
+let name= '';
 
-if(name || name ==0){
+if(name){
     console.log("condition is true");
 }
 else{
